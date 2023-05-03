@@ -1,0 +1,32 @@
+C:\Users\User\Desktop\Desafio Intelitrader\Intelitrader-Desafio-LeonardoBigeschi\bin\Debug\net5.0\Intelitrader-Desafio-LeonardoBigeschi.exe
+C:\Users\User\Desktop\Desafio Intelitrader\Intelitrader-Desafio-LeonardoBigeschi\bin\Debug\net5.0\Intelitrader-Desafio-LeonardoBigeschi.deps.json
+C:\Users\User\Desktop\Desafio Intelitrader\Intelitrader-Desafio-LeonardoBigeschi\bin\Debug\net5.0\Intelitrader-Desafio-LeonardoBigeschi.runtimeconfig.json
+C:\Users\User\Desktop\Desafio Intelitrader\Intelitrader-Desafio-LeonardoBigeschi\bin\Debug\net5.0\Intelitrader-Desafio-LeonardoBigeschi.runtimeconfig.dev.json
+C:\Users\User\Desktop\Desafio Intelitrader\Intelitrader-Desafio-LeonardoBigeschi\bin\Debug\net5.0\Intelitrader-Desafio-LeonardoBigeschi.dll
+C:\Users\User\Desktop\Desafio Intelitrader\Intelitrader-Desafio-LeonardoBigeschi\bin\Debug\net5.0\ref\Intelitrader-Desafio-LeonardoBigeschi.dll
+C:\Users\User\Desktop\Desafio Intelitrader\Intelitrader-Desafio-LeonardoBigeschi\bin\Debug\net5.0\Intelitrader-Desafio-LeonardoBigeschi.pdb
+C:\Users\User\Desktop\Desafio Intelitrader\Intelitrader-Desafio-LeonardoBigeschi\obj\Debug\net5.0\Intelitrader-Desafio-LeonardoBigeschi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Desafio Intelitrader\Intelitrader-Desafio-LeonardoBigeschi\obj\Debug\net5.0\Intelitrader-Desafio-LeonardoBigeschi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Desafio Intelitrader\Intelitrader-Desafio-LeonardoBigeschi\obj\Debug\net5.0\Intelitrader-Desafio-LeonardoBigeschi.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Desafio Intelitrader\Intelitrader-Desafio-LeonardoBigeschi\obj\Debug\net5.0\Intelitrader-Desafio-LeonardoBigeschi.AssemblyInfo.cs
+C:\Users\User\Desktop\Desafio Intelitrader\Intelitrader-Desafio-LeonardoBigeschi\obj\Debug\net5.0\Intelitrader-Desafio-LeonardoBigeschi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Desafio Intelitrader\Intelitrader-Desafio-LeonardoBigeschi\obj\Debug\net5.0\Intelitrader-Desafio-LeonardoBigeschi.dll
+C:\Users\User\Desktop\Desafio Intelitrader\Intelitrader-Desafio-LeonardoBigeschi\obj\Debug\net5.0\ref\Intelitrader-Desafio-LeonardoBigeschi.dll
+C:\Users\User\Desktop\Desafio Intelitrader\Intelitrader-Desafio-LeonardoBigeschi\obj\Debug\net5.0\Intelitrader-Desafio-LeonardoBigeschi.pdb
+C:\Users\User\Desktop\Desafio Intelitrader\Intelitrader-Desafio-LeonardoBigeschi\obj\Debug\net5.0\Intelitrader-Desafio-LeonardoBigeschi.genruntimeconfig.cache
+C:\Users\User\Desktop\Intelitrader-Desafio-LeonardoBigeschi\bin\Debug\net5.0\Intelitrader-Desafio-LeonardoBigeschi.exe
+C:\Users\User\Desktop\Intelitrader-Desafio-LeonardoBigeschi\bin\Debug\net5.0\Intelitrader-Desafio-LeonardoBigeschi.deps.json
+C:\Users\User\Desktop\Intelitrader-Desafio-LeonardoBigeschi\bin\Debug\net5.0\Intelitrader-Desafio-LeonardoBigeschi.runtimeconfig.json
+C:\Users\User\Desktop\Intelitrader-Desafio-LeonardoBigeschi\bin\Debug\net5.0\Intelitrader-Desafio-LeonardoBigeschi.runtimeconfig.dev.json
+C:\Users\User\Desktop\Intelitrader-Desafio-LeonardoBigeschi\bin\Debug\net5.0\Intelitrader-Desafio-LeonardoBigeschi.dll
+C:\Users\User\Desktop\Intelitrader-Desafio-LeonardoBigeschi\bin\Debug\net5.0\ref\Intelitrader-Desafio-LeonardoBigeschi.dll
+C:\Users\User\Desktop\Intelitrader-Desafio-LeonardoBigeschi\bin\Debug\net5.0\Intelitrader-Desafio-LeonardoBigeschi.pdb
+C:\Users\User\Desktop\Intelitrader-Desafio-LeonardoBigeschi\obj\Debug\net5.0\Intelitrader-Desafio-LeonardoBigeschi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Intelitrader-Desafio-LeonardoBigeschi\obj\Debug\net5.0\Intelitrader-Desafio-LeonardoBigeschi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Intelitrader-Desafio-LeonardoBigeschi\obj\Debug\net5.0\Intelitrader-Desafio-LeonardoBigeschi.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Intelitrader-Desafio-LeonardoBigeschi\obj\Debug\net5.0\Intelitrader-Desafio-LeonardoBigeschi.AssemblyInfo.cs
+C:\Users\User\Desktop\Intelitrader-Desafio-LeonardoBigeschi\obj\Debug\net5.0\Intelitrader-Desafio-LeonardoBigeschi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Intelitrader-Desafio-LeonardoBigeschi\obj\Debug\net5.0\Intelitrader-Desafio-LeonardoBigeschi.dll
+C:\Users\User\Desktop\Intelitrader-Desafio-LeonardoBigeschi\obj\Debug\net5.0\ref\Intelitrader-Desafio-LeonardoBigeschi.dll
+C:\Users\User\Desktop\Intelitrader-Desafio-LeonardoBigeschi\obj\Debug\net5.0\Intelitrader-Desafio-LeonardoBigeschi.pdb
+C:\Users\User\Desktop\Intelitrader-Desafio-LeonardoBigeschi\obj\Debug\net5.0\Intelitrader-Desafio-LeonardoBigeschi.genruntimeconfig.cache
